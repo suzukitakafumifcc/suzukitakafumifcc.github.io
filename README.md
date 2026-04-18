@@ -1,4 +1,10 @@
 # Suzuki Takafumi
 
 Suzuki Takafumiのユーザーページです。
-HTML/CSSで作ることを目標にします。
+
+## 構成
+
+- メインビジュアル
+- About: 経歴、興味
+- Skills: 使えるツールや言語
+- Contact: 連絡先
